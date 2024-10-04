@@ -1,0 +1,19 @@
+# Web scraping tools
+selenium==4.10.0
+beautifulsoup4==4.12.2
+scrapy==2.9.0
+playwright==1.37.0
+appium-python-client==2.9.0
+undetected-chromedriver==3.4.6
+Playwright
+
+# Database connectors
+pymongo==4.5.0
+psycopg2-binary==2.9.6
+
+# SQLite is included in Python standard library, no need for installation
+# sqlite3 (comes pre-installed)
+
+# Additional utilities
+webdriver-manager==3.8.5
+TikTokApi
